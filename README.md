@@ -1,10 +1,9 @@
-
-# Hi 👋, My name is Nimish Kumar!
-# An aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!
- </br>
-# 🎓Education: </br>
-**🎓BS in Data Science and Programming - IIT Madras** </br>
-**🎓Bachelors Degree (Hons.), Computer Science - University Of Delhi**
+# ⚡️About Me :
+**Hi 👋, My name is Nimish Kumar!** </br>
+**An aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!🧑‍💻** </br>
+# 📚Education: </br>
+**🎓BS, Data Science and Programming - IIT Madras** </br>
+**🎓BS, Computer Science - University Of Delhi**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimish-kumar16)      [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/nimishkr16) 

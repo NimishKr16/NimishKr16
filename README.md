@@ -1,6 +1,6 @@
 # ⚡️About Me :
 **Hi 👋, My name is Nimish Kumar!** </br>
-**An aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!🧑‍💻** </br>
+**I am an aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!🧑‍💻** </br>
 # 📚Education: </br>
 **🎓BS, Data Science and Programming - IIT Madras** </br>
 **🎓BS (Hons.), Computer Science - University Of Delhi**

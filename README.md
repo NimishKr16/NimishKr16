@@ -1,6 +1,6 @@
 # 💫 About Me:
 **An aspiring Machine Learning and Software Engineer, who is enthusiastic about technology!** </br>
-**🎓Bachelors,BS in Data Science and Programming - IIT Madras**
+**🎓Bachelors,BS in Data Science and Programming - IIT Madras** </br>
 **🎓Bachelors Degree (Hons.) in Computer Science - University Of Delhi**
 
 ## 🌐 Socials:

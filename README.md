@@ -1,5 +1,7 @@
 # 💫 About Me:
 **An aspiring Machine Learning and Software Engineer, who is enthusiastic about technology!**
+**🎓Bachelors,BS in Data Science and Programming - IIT Madras**
+**🎓Bachelors Degree (Hons.) in Computer Science - University Of Delhi**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimish-kumar16)      [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/nimishkr16) 

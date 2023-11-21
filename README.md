@@ -1,5 +1,8 @@
-# 💫 About Me:
-**An aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!** </br>
+
+# Hi 👋, My name is Nimish Kumar!
+# An aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!
+ </br>
+# 🎓Education:
 **🎓BS in Data Science and Programming - IIT Madras** </br>
 **🎓Bachelors Degree (Hons.), Computer Science - University Of Delhi**
 

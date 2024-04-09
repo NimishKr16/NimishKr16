@@ -7,11 +7,11 @@
 
 
 # ⚡️About Me :
-**Hi 👋, My name is Nimish Kumar!** </br>
-**I am an aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!🧑‍💻** </br>
+## **Hi 👋, My name is Nimish Kumar!** </br>
+## **I am an aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!🧑‍💻** </br>
 # 📚Education: </br>
-**🎓BS, Data Science and Programming - IIT Madras** </br>
-**🎓BS (Hons.), Computer Science - University Of Delhi**
+## **🎓BS, Data Science and Programming - IIT Madras** </br>
+## **🎓BS (Hons.), Computer Science - University Of Delhi**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nimish-kumar16)      [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/nimishkr16) 

@@ -1,3 +1,11 @@
+
+<div style="text-align:center;">
+
+![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611os5rqpljd6dywyv5hmvz4wh8x4grne0tmi9gbhgo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+</div>
+
+
 # ⚡️About Me :
 **Hi 👋, My name is Nimish Kumar!** </br>
 **I am an aspiring Machine Learning & Software Engineer, who is enthusiastic about technology!🧑‍💻** </br>
